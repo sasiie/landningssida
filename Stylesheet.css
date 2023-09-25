@@ -1,0 +1,27 @@
+nav{
+    color:black;
+}
+
+.title{
+    text-align: center;
+}
+
+.continents{
+    text-align: center;
+}
+
+a{
+    color: black;
+}
+
+h2{
+    text-align: center;
+}
+
+.flagga{
+width: 300px;
+border-radius: 20px;
+<!-- Margin flyttar objektet runt i dokumentet -->
+margin-top: 5% ;
+margin-left: 25%;
+}
