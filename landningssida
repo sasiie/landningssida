@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" href="./landdningssida.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+
+  <body>
+    <div class="hero-image">
+      <header>
+        <div class="logga">
+          <img src="logga.png" />
+        </div>
+        <nav>
+          <a> Om oss </a>
+          <a> Aktuellt</a>
+          <a> Kontakt</a>
+          <button class="hero-button"><p>ANSÖK</p></button>
+        </nav>
+      </header>
+      <div class="hero-text">
+        <h1>VILL DU VARA MED PÅ VÄRLSEND BÄSTA BRANCH?</h1>
+        <h2>KOM ETT STEG NÄRMARE EN KARRIÄR INOM IT MED VÅRA UTBILDNINGAR</h2>
+        <a href="#" class="cta-button">ANSÖK</a>
+      </div>
+    </div>
+    <div class="container">
+      <img
+        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNEGAVcGP1pkgl84O4pL7fOIA4rYMCB6W80Q&usqp=CAU"
+        alt="student"
+        class="student"
+      />
+      <div>
+        <h2>Chas Academy</h2>
+        <h5>
+          Lär känna oss Vi kan it! Och snart kan du också det.<br />
+          Med pedagogik och kunskap stöttar våra branchledande<br />huvudlärare
+          studenter i resan från drömjobb till verklighet. <br />
+          Här på Chas Academy.
+        </h5>
+      </div>
+    </div>
+
+    <div class="containeer">
+      <h1>Vad säger våra studenter?</h1>
+      <div class="image">
+        <img src="nedladdning (2).jpeg" alt="programming" style="width: 100%" />
+        <div class="text">
+          <p>Spänning</p>
+        </div>
+      </div>
+      <div class="image">
+        <img src="images (1).jpeg" alt="column1" style="width: 100%" />
+        <div class="text">
+          <p>Kul och Utmannande</p>
+        </div>
+      </div>
+      <div class="image">
+        <img src="images (2).jpeg" alt="column2" style="width: 100%" />
+        <div class="text">
+          <p>Bäst!</p>
+        </div>
+      </div>
+    </div>
+    <section>
+      <h1>Ansökan är öppen!</h1>
+      <p>om Ansökan</p>
+      <button class="hero-button"><p>ANSÖK</p></button>
+    </section>
+    <footer>
+      <ul>
+        <li>Hem</li>
+        <li>YH-Program</li>
+        <li>Chas Upskill</li>
+        <li>Om Oss</li>
+        <li>Så ansöker du</li>
+        <li>Kontakt</li>
+        <li>Aktuellt</li>
+        <li>Integritetspolicy</li>
+      </ul>
+      <adress>
+        <h4>Kontakta oss:</h4>
+        <h4>Mail</h4>
+        info@chasacademy.se<br />
+        <h4>Adress</h4>
+        Arenavägen 61<br />
+        121 77 Johanneshov
+      </adress>
+      <div class="logga2">
+        <img src="logga.png" />
+      </div>
+    </footer>
+  </body>
+</html>
